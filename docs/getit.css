@@ -47,7 +47,7 @@ body {
 
  
   margin-left: 15px;
-  margin-top: 6px;
+  margin-top: 10px;
   width: 95%;
 }
 
@@ -146,7 +146,7 @@ textarea{
   max-height: 80%;
 }
 
-.autoresize[readonly]{
+.autoresize{
   display: flex;
   border: none;
   margin-top: 10px;
