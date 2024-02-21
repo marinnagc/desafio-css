@@ -187,6 +187,7 @@ textarea{
 
 .card-title{
   font-family: 'Permanent Marker', cursive;
+  font-size: 20px;
   color: black;
   margin-top: 20px;
   justify-content: flex-start;
@@ -198,6 +199,7 @@ textarea{
 
 .card-content{
   font-family: 'Permanent Marker', cursive;
+  font-size: 17px;
   color: #4c4c4c;
   margin-top: 10px;
   margin-bottom: 20px;
